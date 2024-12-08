@@ -1,2 +1,2 @@
 #  Image-Searching-App 
-  It shows the images related to what you have searched.
+  It shows the images related to what you have searched using API.
